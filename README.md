@@ -1,2 +1,2 @@
 # ChatApp
-A  chatting web app built with django channel
+A  chat web app built with django channel
